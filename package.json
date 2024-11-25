@@ -9,7 +9,7 @@
     "start": "node build/index.js",
     "lint": "eslint src"
   },
-  "author": "",
+  "author": "Andreas Östling",
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
